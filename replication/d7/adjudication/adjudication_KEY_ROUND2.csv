@@ -1,0 +1,46 @@
+item_id,record_id,term_matched,term_side,new_d7,llm_label
+ITa932e3cd93,877,insécurité ,right,PLAIN,QUALIFIED
+IT8cd013bb62,3940,wokisme,right,PLAIN,QUALIFIED
+ITd19f586640,76,submersion migratoire,right,QUALIFIED,PLAIN
+IT6e124e2849,88,submersion migratoire,right,QUALIFIED,PLAIN
+ITe393c61339,5339,justice sociale,left,QUALIFIED,PLAIN
+IT86da0231a5,4808,immigration clandestine,right,QUALIFIED,PLAIN
+ITa15b480993,3973,violences policières,left,QUALIFIED,PLAIN
+ITd4873b844f,1866,ultra-riche,left,QUALIFIED,PLAIN
+IT315730b33a,499,wokisme,right,PLAIN,QUALIFIED
+IT4b254059ca,30,violences policières,left,QUALIFIED,PLAIN
+ITa15f5e6fe2,182,grand remplacement,right,QUALIFIED,PLAIN
+ITcd99a16471,1126,remigration,right,PLAIN,QUALIFIED
+ITaa01376c6b,3297,violences sexistes,left,QUALIFIED,PLAIN
+IT0409ecc442,513,patriarcat,left,QUALIFIED,PLAIN
+IT74f58eabd9,2621,capitalisme mondialisé,left,QUALIFIED,PLAIN
+ITfbd7dee0b2,994,Féminicides,left,PLAIN,QUALIFIED
+IT806ed77c21,410,justice sociale,left,PLAIN,QUALIFIED
+IT4144d9fb87,4900,violences policières,left,QUALIFIED,PLAIN
+IT88fd1817f9,3067,violence de rue,right,QUALIFIED,PLAIN
+ITd2989b1746,20,violences sexistes,left,QUALIFIED,PLAIN
+IT0fb75aac57,4489,violences policières,left,QUALIFIED,PLAIN
+IT6cc6bbe3ec,2721,patriarcat,left,QUALIFIED,PLAIN
+IT245d6bffe6,928,wokisme,right,QUALIFIED,PLAIN
+ITade874cd12,3902,grand remplacement,right,QUALIFIED,PLAIN
+IT7e09e8879a,42,wokisme,right,QUALIFIED,PLAIN
+ITcffe0ddba5,2592,violences sexistes,left,QUALIFIED,PLAIN
+ITe9c7f8f03c,692,insécurité ,right,QUALIFIED,PLAIN
+IT2126a352e3,4791,immigration clandestine,right,QUALIFIED,PLAIN
+IT5e8f0d2e78,640,violences sexistes,left,QUALIFIED,PLAIN
+IT8227487050,2447,patriarcat,left,QUALIFIED,PLAIN
+IT617b78b571,1744,submersion migratoire,right,QUALIFIED,PLAIN
+IT91e9b08671,199,immigration incontrôlée,right,QUALIFIED,PLAIN
+IT6f7afd43f9,545,submersion migratoire,right,QUALIFIED,PLAIN
+IT590181995b,3524,justice sociale,left,QUALIFIED,PLAIN
+IT706a4f1ca0,2240,insécurité ,right,PLAIN,QUALIFIED
+IT114e672178,2431,ultra-riches,left,QUALIFIED,PLAIN
+ITdc9ed62d11,2364,immigration clandestine,right,QUALIFIED,PLAIN
+IT8603f051fb,4807,immigration massive,right,QUALIFIED,PLAIN
+IT36246d2264,156,remigration,right,QUALIFIED,PLAIN
+ITd68a0a5746,2726,Remigration,right,QUALIFIED,PLAIN
+IT3abb380471,4903,racisme systémique,left,QUALIFIED,PLAIN
+IT790b4ed71d,510,ensauvagement,right,QUALIFIED,PLAIN
+ITc067ebc1b8,2630,féminicides,left,QUALIFIED,PLAIN
+IT133c8a9f08,3479,insécurité ,right,QUALIFIED,PLAIN
+IT52ee149652,2614,remigration,right,QUALIFIED,PLAIN

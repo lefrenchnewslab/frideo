@@ -1,0 +1,24 @@
+{
+  "grouping": "MBFC bands (external); scores = no-D4 holdout (non-circular)",
+  "left": {
+    "n": 7,
+    "mean": -0.8011,
+    "min": -1.707,
+    "max": -0.1963
+  },
+  "center": {
+    "n": 2,
+    "mean": -0.0536
+  },
+  "right": {
+    "n": 6,
+    "mean": 1.1372,
+    "min": 0.0035,
+    "max": 1.893
+  },
+  "mann_whitney_U": 42.0,
+  "auc": 1.0,
+  "cohens_d": 3.05,
+  "perm_p_one_sided_exact": 0.000583,
+  "perm_total_relabelings": 1716
+}

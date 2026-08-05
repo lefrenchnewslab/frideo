@@ -1,0 +1,15 @@
+{
+  "_basis_note": "These figures are the 2026-06-04 LLM-judging run on the PRE-BALANCING 526-occurrence basis (527 drawn, 526 valid). The paper reports the 430-row rebuilt gold: D7 vs LLM kappa 0.43, 118/430 disagreements. Both are correct on their own basis. `make check` recomputes the paper's figures directly from exp_a_gold_430.csv; this file is retained as the provenance record of the LLM run (see prompt_hash).",
+  "experiment": "A",
+  "n_total": 526,
+  "cohens_kappa": 0.6504,
+  "kappa_left": 0.7024,
+  "kappa_right": 0.6029,
+  "n_disagreements": 91,
+  "n_human_adjudication": 91,
+  "model": "gpt-oss-120b",
+  "temperature": 0.0,
+  "n_runs": 1,
+  "prompt_hash": "9555d44748d82aad",
+  "timestamp": "2026-06-04T15:05:03.504084+00:00"
+}

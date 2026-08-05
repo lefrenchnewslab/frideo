@@ -1,0 +1,26 @@
+outlet_json_name,period,n_articles,n_left_signal,n_right_signal,n_both_signal,left_pct,right_pct,d5_raw
+20 Minutes,d5_politique_pooled_all_current,5118,108,140,0,2.1,2.7,0.12903225806451613
+BFMTV,d5_politique_pooled_all_current,5000,87,157,6,1.7,3.1,0.28688524590163933
+Blast,d5_politique_pooled_all_current,1764,222,75,17,12.6,4.3,-0.494949494949495
+CNews,d5_politique_pooled_all_current,5000,49,149,4,1.0,3.0,0.5050505050505051
+Causeur,d5_politique_pooled_all_current,4993,265,586,66,5.3,11.7,0.3772032902467685
+Fdesouche,d5_politique_pooled_all_current,5000,91,328,12,1.8,6.6,0.5656324582338902
+Franceinfo,d5_politique_pooled_all_current,7368,171,345,17,2.3,4.7,0.3372093023255814
+JDD,d5_politique_pooled_all_current,5000,78,336,17,1.6,6.7,0.6231884057971014
+L'Express,d5_politique_pooled_all_current,5000,189,285,19,3.8,5.7,0.20253164556962025
+L'Humanité,d5_politique_pooled_all_current,5000,315,141,7,6.3,2.8,-0.3815789473684211
+La Croix,d5_politique_pooled_all_current,5000,106,125,5,2.1,2.5,0.08225108225108226
+Le Figaro,d5_politique_pooled_all_current,8611,64,271,6,0.7,3.1,0.6179104477611941
+Le HuffPost,d5_politique_pooled_all_current,5000,111,114,4,2.2,2.3,0.013333333333333334
+Le Monde,d5_politique_pooled_all_current,5000,59,99,3,1.2,2.0,0.25316455696202533
+Le Nouvel Obs,d5_politique_pooled_all_current,5000,120,81,6,2.4,1.6,-0.19402985074626866
+Le Parisien,d5_politique_pooled_all_current,5530,55,134,2,1.0,2.4,0.41798941798941797
+Le Point,d5_politique_pooled_all_current,5744,135,245,18,2.4,4.3,0.2894736842105263
+Les Echos,d5_politique_pooled_all_current,5000,87,127,1,1.7,2.5,0.18691588785046728
+Libération,d5_politique_pooled_all_current,5000,109,95,6,2.2,1.9,-0.06862745098039216
+Marianne,d5_politique_pooled_all_current,5000,132,82,7,2.6,1.6,-0.2336448598130841
+Mediapart,d5_politique_pooled_all_current,5000,42,6,0,0.8,0.1,-0.75
+Ouest-France,d5_politique_pooled_all_current,5655,19,36,0,0.3,0.6,0.3090909090909091
+Slate.fr,d5_politique_pooled_all_current,5000,128,65,3,2.6,1.3,-0.32642487046632124
+TF1 INFO,d5_politique_pooled_all_current,5000,125,231,15,2.5,4.6,0.29775280898876405
+Valeurs actuelles,d5_politique_pooled_all_current,5000,93,352,17,1.9,7.0,0.5820224719101124

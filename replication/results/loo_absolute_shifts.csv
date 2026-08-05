@@ -1,0 +1,10 @@
+family_dropped,n_outlets_with_family,spearman_rho,max_abs_shift_all,mean_abs_shift_all,max_shift_outlet,max_abs_shift_affected,mean_abs_shift_affected
+D0,28,0.9973,0.1956,0.0612,Libération,0.1956,0.0629
+D1,3,0.9969,0.1449,0.0321,Le Figaro,0.1311,0.1067
+D2,8,0.9973,0.1817,0.0306,Le Monde,0.1817,0.082
+D3,30,0.9956,0.2678,0.098,Le Figaro,0.2678,0.098
+D4,15,0.9969,0.224,0.0473,Le HuffPost,0.224,0.082
+D6a,18,0.992,0.2067,0.0572,JDD,0.2067,0.0679
+D6b,27,0.9969,0.1652,0.0508,Le Figaro,0.1652,0.0533
+D7,30,0.9933,0.2503,0.0725,JDD,0.2503,0.0725
+D8,9,1.0,0.0594,0.0084,TF1 INFO,0.0594,0.0213

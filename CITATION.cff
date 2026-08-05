@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+title: "FrIdéo — French News Outlet Ideology Scores"
+message: "If you use these scores or the replication code, please cite the paper below."
+type: dataset
+authors:
+  - family-names: Sobhy
+    given-names: Amr
+    affiliation: Le French News Lab
+    email: amr@frenchnewslab.org
+repository-code: "https://github.com/lefrenchnewslab/frideo"
+abstract: >-
+  A continuous ideology scale for thirty French national news outlets, built by
+  fusing nine independent evidence families — ownership, hyperlink network,
+  reader surveys, editorial charters, reference profiling, broadcast guest
+  bookings, two rating panels, and a distancing-aware lexical measure of the
+  outlets' own articles. Each outlet carries a position, a confidence interval,
+  and every input published.
+keywords:
+  - media ideology
+  - French news
+  - evidence fusion
+  - computational journalism
+  - political communication
+license:
+  - MIT
+  - CC-BY-4.0
+version: 1.0.0
+date-released: "2026-08-05"
+
+preferred-citation:
+  type: conference-paper
+  title: "FrIdéo: French News Outlet Ideology Scoring via Multi-Source Evidence Fusion and Distancing-Aware Lexical Scoring"
+  authors:
+    - family-names: Sobhy
+      given-names: Amr
+      affiliation: Le French News Lab
+  collection-title: "Proceedings of the 9th International Conference on Natural Language and Speech Processing (ICNLSP 2026)"
+  year: 2026
+  conference:
+    name: "ICNLSP 2026"
+    city: Trento
+    country: IT

@@ -1,0 +1,428 @@
+{
+  "L'Humanité": {
+    "outlet": "L'Humanité",
+    "gn_slug": "lhumanite",
+    "note": "page exists, no bias ratings assigned",
+    "bias": {
+      "url": "https://ground.news/interest/lhumanite",
+      "ratings": {},
+      "gn_average": "center",
+      "status": "ok"
+    },
+    "status": "ok"
+  },
+  "Mediapart": {
+    "outlet": "Mediapart",
+    "gn_slug": "mediapart",
+    "bias": {
+      "url": "https://ground.news/interest/mediapart",
+      "ratings": {
+        "mbfc": {
+          "bias": "leanLeft",
+          "rater": "Media Bias/Fact Check",
+          "ref_url": "https://mediabiasfactcheck.com/mediapart-bias-credibility/"
+        }
+      },
+      "gn_average": "leanLeft",
+      "status": "ok"
+    },
+    "status": "ok"
+  },
+  "Blast": {
+    "outlet": "Blast",
+    "gn_slug": null,
+    "note": "French outlet not tracked on GN",
+    "status": "not_on_gn",
+    "bias": null
+  },
+  "Libération": {
+    "outlet": "Libération",
+    "gn_slug": "liberation",
+    "bias": {
+      "url": "https://ground.news/interest/liberation",
+      "ratings": {
+        "ad_fontes": {
+          "bias": "leanLeft",
+          "rater": "Ad Fontes Media",
+          "ref_url": "https://www.adfontesmedia.com/"
+        },
+        "mbfc": {
+          "bias": "leanLeft",
+          "rater": "Media Bias/Fact Check",
+          "ref_url": "https://mediabiasfactcheck.com/liberation-paris-bias/"
+        }
+      },
+      "gn_average": "leanLeft",
+      "status": "ok"
+    },
+    "status": "ok"
+  },
+  "Le HuffPost": {
+    "outlet": "Le HuffPost",
+    "gn_slug": "le-huffington-post",
+    "note": "French-edition slug (not US parent huffpost)",
+    "bias": {
+      "url": "https://ground.news/interest/le-huffington-post",
+      "ratings": {
+        "allsides": {
+          "bias": "left",
+          "rater": "AllSides",
+          "ref_url": "https://www.allsides.com/news-source/huffpost-media-bias"
+        },
+        "mbfc": {
+          "bias": "left",
+          "rater": "Media Bias/Fact Check",
+          "ref_url": "https://mediabiasfactcheck.com/huffington-post/"
+        }
+      },
+      "gn_average": "left",
+      "status": "ok"
+    },
+    "status": "ok"
+  },
+  "Le Monde": {
+    "outlet": "Le Monde",
+    "gn_slug": "le-monde",
+    "bias": {
+      "url": "https://ground.news/interest/le-monde",
+      "ratings": {
+        "ad_fontes": {
+          "bias": "leanLeft",
+          "rater": "Ad Fontes Media",
+          "ref_url": "https://www.adfontesmedia.com/"
+        },
+        "mbfc": {
+          "bias": "leanLeft",
+          "rater": "Media Bias/Fact Check",
+          "ref_url": "https://mediabiasfactcheck.com/le-monde-bias/"
+        }
+      },
+      "gn_average": "leanLeft",
+      "status": "ok"
+    },
+    "status": "ok"
+  },
+  "Le Nouvel Obs": {
+    "outlet": "Le Nouvel Obs",
+    "gn_slug": "lobs",
+    "note": "page exists, no bias ratings assigned",
+    "bias": {
+      "url": "https://ground.news/interest/lobs",
+      "ratings": {},
+      "gn_average": "left",
+      "status": "ok"
+    },
+    "status": "ok"
+  },
+  "Slate.fr": {
+    "outlet": "Slate.fr",
+    "gn_slug": "slate",
+    "note": "GN page is English Slate (US parent)",
+    "bias": {
+      "url": "https://ground.news/interest/slate",
+      "ratings": {
+        "allsides": {
+          "bias": "left",
+          "rater": "AllSides",
+          "ref_url": "https://www.allsides.com/news-source/slate-media-bias"
+        },
+        "ad_fontes": {
+          "bias": "leanLeft",
+          "rater": "Ad Fontes Media",
+          "ref_url": "https://www.adfontesmedia.com/slate-bias-and-reliability/"
+        },
+        "mbfc": {
+          "bias": "left",
+          "rater": "Media Bias/Fact Check",
+          "ref_url": "https://mediabiasfactcheck.com/slate/"
+        }
+      },
+      "gn_average": "left",
+      "status": "ok"
+    },
+    "status": "ok"
+  },
+  "Franceinfo": {
+    "outlet": "Franceinfo",
+    "gn_slug": "franceinfofr",
+    "bias": {
+      "url": "https://ground.news/interest/franceinfofr",
+      "ratings": {
+        "mbfc": {
+          "bias": "leanLeft",
+          "rater": "Media Bias/Fact Check",
+          "ref_url": "https://mediabiasfactcheck.com/france-info/"
+        }
+      },
+      "gn_average": "leanLeft",
+      "status": "ok"
+    },
+    "status": "ok"
+  },
+  "BFMTV": {
+    "outlet": "BFMTV",
+    "gn_slug": "bfm-tv",
+    "bias": {
+      "url": "https://ground.news/interest/bfm-tv",
+      "ratings": {
+        "ad_fontes": {
+          "bias": "center",
+          "rater": "Ad Fontes Media",
+          "ref_url": "https://www.adfontesmedia.com/"
+        }
+      },
+      "gn_average": "center",
+      "status": "ok"
+    },
+    "status": "ok"
+  },
+  "TF1 INFO": {
+    "outlet": "TF1 INFO",
+    "gn_slug": "tf1-info",
+    "bias": {
+      "url": "https://ground.news/interest/tf1-info",
+      "ratings": {
+        "ad_fontes": {
+          "bias": "center",
+          "rater": "Ad Fontes Media",
+          "ref_url": "https://www.adfontesmedia.com/"
+        }
+      },
+      "gn_average": "center",
+      "status": "ok"
+    },
+    "status": "ok"
+  },
+  "20 Minutes": {
+    "outlet": "20 Minutes",
+    "gn_slug": "20-minutes",
+    "bias": {
+      "url": "https://ground.news/interest/20-minutes",
+      "ratings": {
+        "ad_fontes": {
+          "bias": "center",
+          "rater": "Ad Fontes Media",
+          "ref_url": "https://www.adfontesmedia.com/"
+        },
+        "mbfc": {
+          "bias": "leanLeft",
+          "rater": "Media Bias/Fact Check",
+          "ref_url": "https://mediabiasfactcheck.com/20-minutes-bias-and-credibility/"
+        }
+      },
+      "gn_average": "leanLeft",
+      "status": "ok"
+    },
+    "status": "ok"
+  },
+  "Le Parisien": {
+    "outlet": "Le Parisien",
+    "gn_slug": "le-parisien",
+    "bias": {
+      "url": "https://ground.news/interest/le-parisien",
+      "ratings": {
+        "ad_fontes": {
+          "bias": "center",
+          "rater": "Ad Fontes Media",
+          "ref_url": "https://www.adfontesmedia.com/"
+        },
+        "mbfc": {
+          "bias": "leanRight",
+          "rater": "Media Bias/Fact Check",
+          "ref_url": "https://mediabiasfactcheck.com/le-parisien-bias/"
+        }
+      },
+      "gn_average": "leanRight",
+      "status": "ok"
+    },
+    "status": "ok"
+  },
+  "Ouest-France": {
+    "outlet": "Ouest-France",
+    "gn_slug": "ouest-francefr",
+    "note": "page exists, no bias ratings assigned",
+    "bias": {
+      "url": "https://ground.news/interest/ouest-francefr",
+      "ratings": {},
+      "gn_average": "leanRight",
+      "status": "ok"
+    },
+    "status": "ok"
+  },
+  "La Croix": {
+    "outlet": "La Croix",
+    "gn_slug": "la-croix",
+    "note": "page exists, no bias ratings assigned",
+    "bias": {
+      "url": "https://ground.news/interest/la-croix",
+      "ratings": {},
+      "gn_average": "leanRight",
+      "status": "ok"
+    },
+    "status": "ok"
+  },
+  "L'Express": {
+    "outlet": "L'Express",
+    "gn_slug": "lexpress",
+    "note": "page exists, no bias ratings assigned",
+    "bias": {
+      "url": "https://ground.news/interest/lexpress",
+      "ratings": {},
+      "gn_average": "leanLeft",
+      "status": "ok"
+    },
+    "status": "ok"
+  },
+  "Les Echos": {
+    "outlet": "Les Echos",
+    "gn_slug": null,
+    "note": "not found on GN",
+    "status": "not_on_gn",
+    "bias": null
+  },
+  "Le Point": {
+    "outlet": "Le Point",
+    "gn_slug": null,
+    "note": "not found on GN",
+    "status": "not_on_gn",
+    "bias": null
+  },
+  "Marianne": {
+    "outlet": "Marianne",
+    "gn_slug": "marianne",
+    "bias": {
+      "url": "https://ground.news/interest/marianne",
+      "ratings": {
+        "mbfc": {
+          "bias": "leanLeft",
+          "rater": "Media Bias/Fact Check",
+          "ref_url": "https://mediabiasfactcheck.com/marianne-bias/"
+        }
+      },
+      "gn_average": "leanRight",
+      "status": "ok"
+    },
+    "status": "ok"
+  },
+  "JDD": {
+    "outlet": "JDD",
+    "gn_slug": null,
+    "note": "not found on GN",
+    "status": "not_on_gn",
+    "bias": null
+  },
+  "Le Figaro": {
+    "outlet": "Le Figaro",
+    "gn_slug": "le-figaro",
+    "bias": {
+      "url": "https://ground.news/interest/le-figaro",
+      "ratings": {
+        "ad_fontes": {
+          "bias": "leanRight",
+          "rater": "Ad Fontes Media",
+          "ref_url": "https://www.adfontesmedia.com/"
+        },
+        "mbfc": {
+          "bias": "leanRight",
+          "rater": "Media Bias/Fact Check",
+          "ref_url": "https://mediabiasfactcheck.com/le-figaro-bias/"
+        }
+      },
+      "gn_average": "leanRight",
+      "status": "ok"
+    },
+    "status": "ok"
+  },
+  "CNews": {
+    "outlet": "CNews",
+    "gn_slug": null,
+    "note": "not found on GN",
+    "status": "not_on_gn",
+    "bias": null
+  },
+  "Causeur": {
+    "outlet": "Causeur",
+    "gn_slug": "causeur",
+    "bias": {
+      "url": "https://ground.news/interest/causeur",
+      "ratings": {
+        "mbfc": {
+          "bias": "right",
+          "rater": "Media Bias/Fact Check",
+          "ref_url": "https://mediabiasfactcheck.com/causeur-talker-bias/"
+        }
+      },
+      "gn_average": "right",
+      "status": "ok"
+    },
+    "status": "ok"
+  },
+  "Valeurs actuelles": {
+    "outlet": "Valeurs actuelles",
+    "gn_slug": "valeursactuellescom",
+    "bias": {
+      "url": "https://ground.news/interest/valeursactuellescom",
+      "ratings": {
+        "mbfc": {
+          "bias": "right",
+          "rater": "Media Bias/Fact Check",
+          "ref_url": "https://mediabiasfactcheck.com/valeurs-actuelles-bias/"
+        }
+      },
+      "gn_average": "right",
+      "status": "ok"
+    },
+    "status": "ok"
+  },
+  "Fdesouche": {
+    "outlet": "Fdesouche",
+    "gn_slug": null,
+    "note": "not found on GN",
+    "status": "not_on_gn",
+    "bias": null
+  },
+  "RFI": {
+    "outlet": "RFI",
+    "gn_slug": "rfi",
+    "bias": {
+      "url": "https://ground.news/interest/rfi",
+      "ratings": {
+        "ad_fontes": {
+          "bias": "center",
+          "rater": "Ad Fontes Media",
+          "ref_url": "https://www.adfontesmedia.com/"
+        },
+        "mbfc": {
+          "bias": "center",
+          "rater": "Media Bias/Fact Check",
+          "ref_url": "https://mediabiasfactcheck.com/rfi-radio-france-internationale/"
+        }
+      },
+      "gn_average": "center",
+      "status": "ok"
+    },
+    "status": "ok"
+  },
+  "France 24": {
+    "outlet": "France 24",
+    "gn_slug": "france-24",
+    "bias": {
+      "url": "https://ground.news/interest/france-24",
+      "ratings": {
+        "ad_fontes": {
+          "bias": "center",
+          "rater": "Ad Fontes Media",
+          "ref_url": "https://www.adfontesmedia.com/"
+        },
+        "mbfc": {
+          "bias": "center",
+          "rater": "Media Bias/Fact Check",
+          "ref_url": "https://mediabiasfactcheck.com/france24/"
+        }
+      },
+      "gn_average": "center",
+      "status": "ok"
+    },
+    "status": "ok"
+  }
+}

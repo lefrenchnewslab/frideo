@@ -1,0 +1,301 @@
+outlet,final_score,label,n_direct,alpha,component,is_prior,contrib_blend,contrib_final,abs_share,signed_share
+L'Humanité,-2.411731,far-left,5,0.7143,D0,False,-0.346075,-0.443479,0.185199,-0.185199
+L'Humanité,-2.411731,far-left,5,0.7143,D1,False,,,,
+L'Humanité,-2.411731,far-left,5,0.7143,D2,False,,,,
+L'Humanité,-2.411731,far-left,5,0.7143,D3,False,-0.407884,-0.522684,0.218276,-0.218276
+L'Humanité,-2.411731,far-left,5,0.7143,D4,False,,,,
+L'Humanité,-2.411731,far-left,5,0.7143,D6a,False,-0.329538,-0.422288,0.17635,-0.17635
+L'Humanité,-2.411731,far-left,5,0.7143,D6b,False,-0.301178,-0.385946,0.161173,-0.161173
+L'Humanité,-2.411731,far-left,5,0.7143,D7,False,-0.269703,-0.345612,0.144329,-0.144329
+L'Humanité,-2.411731,far-left,5,0.7143,D8,False,,,,
+L'Humanité,-2.411731,far-left,5,0.7143,prior,True,-0.214286,-0.274597,0.114673,-0.114673
+Blast,-1.647343,far-left,4,0.6667,D0,False,-0.252008,-0.322936,0.198094,-0.198094
+Blast,-1.647343,far-left,4,0.6667,D1,False,,,,
+Blast,-1.647343,far-left,4,0.6667,D2,False,,,,
+Blast,-1.647343,far-left,4,0.6667,D3,False,-0.312642,-0.400637,0.245757,-0.245757
+Blast,-1.647343,far-left,4,0.6667,D4,False,,,,
+Blast,-1.647343,far-left,4,0.6667,D6a,False,,,,
+Blast,-1.647343,far-left,4,0.6667,D6b,False,-0.277831,-0.356028,0.218393,-0.218393
+Blast,-1.647343,far-left,4,0.6667,D7,False,-0.179681,-0.230253,0.141241,-0.141241
+Blast,-1.647343,far-left,4,0.6667,D8,False,,,,
+Blast,-1.647343,far-left,4,0.6667,prior,True,-0.25,-0.320363,0.196516,-0.196516
+Mediapart,-1.634397,far-left,7,0.7778,D0,False,-0.168005,-0.215291,0.13312,-0.13312
+Mediapart,-1.634397,far-left,7,0.7778,D1,False,,,,
+Mediapart,-1.634397,far-left,7,0.7778,D2,False,-0.178032,-0.228139,0.141065,-0.141065
+Mediapart,-1.634397,far-left,7,0.7778,D3,False,-0.216458,-0.277381,0.171512,-0.171512
+Mediapart,-1.634397,far-left,7,0.7778,D4,False,-0.092808,-0.118929,0.073537,-0.073537
+Mediapart,-1.634397,far-left,7,0.7778,D6a,False,-0.142393,-0.18247,0.112826,-0.112826
+Mediapart,-1.634397,far-left,7,0.7778,D6b,False,-0.185221,-0.237352,0.146761,-0.146761
+Mediapart,-1.634397,far-left,7,0.7778,D7,False,-0.19581,-0.250921,0.155151,-0.155151
+Mediapart,-1.634397,far-left,7,0.7778,D8,False,,,,
+Mediapart,-1.634397,far-left,7,0.7778,prior,True,-0.083333,-0.106788,0.06603,-0.06603
+Libération,-1.079817,left,7,0.7778,D0,False,-0.054195,-0.069449,0.065352,-0.065352
+Libération,-1.079817,left,7,0.7778,D1,False,,,,
+Libération,-1.079817,left,7,0.7778,D2,False,-0.159042,-0.203805,0.191782,-0.191782
+Libération,-1.079817,left,7,0.7778,D3,False,-0.005114,-0.006554,0.006167,-0.006167
+Libération,-1.079817,left,7,0.7778,D4,False,-0.092808,-0.118929,0.111913,-0.111913
+Libération,-1.079817,left,7,0.7778,D6a,False,,,,
+Libération,-1.079817,left,7,0.7778,D6b,False,-0.136192,-0.174523,0.164228,-0.164228
+Libération,-1.079817,left,7,0.7778,D7,False,-0.122461,-0.156928,0.14767,-0.14767
+Libération,-1.079817,left,7,0.7778,D8,False,-0.092808,-0.118929,0.111913,-0.111913
+Libération,-1.079817,left,7,0.7778,prior,True,-0.166667,-0.213576,0.200976,-0.200976
+Le HuffPost,-0.996219,left,4,0.6667,D0,False,-0.176134,-0.225708,0.230528,-0.230528
+Le HuffPost,-0.996219,left,4,0.6667,D1,False,,,,
+Le HuffPost,-0.996219,left,4,0.6667,D2,False,,,,
+Le HuffPost,-0.996219,left,4,0.6667,D3,False,-0.00647,-0.008291,0.008468,-0.008468
+Le HuffPost,-0.996219,left,4,0.6667,D4,False,-0.278423,-0.356786,0.364405,-0.364405
+Le HuffPost,-0.996219,left,4,0.6667,D6a,False,,,,
+Le HuffPost,-0.996219,left,4,0.6667,D6b,False,,,,
+Le HuffPost,-0.996219,left,4,0.6667,D7,False,-0.178021,-0.228126,0.232998,-0.232998
+Le HuffPost,-0.996219,left,4,0.6667,D8,False,,,,
+Le HuffPost,-0.996219,left,4,0.6667,prior,True,-0.125,-0.160182,0.163602,-0.163602
+Le Nouvel Obs,-0.893855,left,5,0.7143,D0,False,-0.150972,-0.193464,0.220666,-0.220666
+Le Nouvel Obs,-0.893855,left,5,0.7143,D1,False,,,,
+Le Nouvel Obs,-0.893855,left,5,0.7143,D2,False,,,,
+Le Nouvel Obs,-0.893855,left,5,0.7143,D3,False,-0.003722,-0.004769,0.00544,-0.00544
+Le Nouvel Obs,-0.893855,left,5,0.7143,D4,False,,,,
+Le Nouvel Obs,-0.893855,left,5,0.7143,D6a,False,-0.183077,-0.234604,0.26759,-0.26759
+Le Nouvel Obs,-0.893855,left,5,0.7143,D6b,False,-0.112066,-0.143608,0.1638,-0.1638
+Le Nouvel Obs,-0.893855,left,5,0.7143,D7,False,-0.127188,-0.162985,0.185901,-0.185901
+Le Nouvel Obs,-0.893855,left,5,0.7143,D8,False,,,,
+Le Nouvel Obs,-0.893855,left,5,0.7143,prior,True,-0.107143,-0.137299,0.156603,-0.156603
+Le Monde,-0.70707,center-left,7,0.7778,D0,False,-0.117423,-0.150472,0.218093,-0.218093
+Le Monde,-0.70707,center-left,7,0.7778,D1,False,,,,
+Le Monde,-0.70707,center-left,7,0.7778,D2,False,-0.007121,-0.009126,0.013227,-0.013227
+Le Monde,-0.70707,center-left,7,0.7778,D3,False,-0.019625,-0.025148,0.03645,-0.03645
+Le Monde,-0.70707,center-left,7,0.7778,D4,False,-0.092808,-0.118929,0.172374,-0.172374
+Le Monde,-0.70707,center-left,7,0.7778,D6a,False,,,,
+Le Monde,-0.70707,center-left,7,0.7778,D6b,False,-0.087163,-0.111695,0.16189,-0.16189
+Le Monde,-0.70707,center-left,7,0.7778,D7,False,-0.038127,-0.048858,0.070814,-0.070814
+Le Monde,-0.70707,center-left,7,0.7778,D8,False,-0.092808,-0.118929,0.172374,-0.172374
+Le Monde,-0.70707,center-left,7,0.7778,prior,True,-0.083333,-0.106788,0.154778,-0.154778
+Marianne,-0.650778,center-left,6,0.75,D0,False,0.024388,0.031252,0.044892,0.044892
+Marianne,-0.650778,center-left,6,0.75,D1,False,,,,
+Marianne,-0.650778,center-left,6,0.75,D2,False,,,,
+Marianne,-0.650778,center-left,6,0.75,D3,False,-0.187005,-0.239638,0.344231,-0.344231
+Marianne,-0.650778,center-left,6,0.75,D4,False,-0.104409,-0.133795,0.192191,-0.192191
+Marianne,-0.650778,center-left,6,0.75,D6a,False,-0.032038,-0.041056,0.058975,-0.058975
+Marianne,-0.650778,center-left,6,0.75,D6b,False,-0.0429,-0.054975,0.078969,-0.078969
+Marianne,-0.650778,center-left,6,0.75,D7,False,-0.058764,-0.075303,0.10817,-0.10817
+Marianne,-0.650778,center-left,6,0.75,D8,False,,,,
+Marianne,-0.650778,center-left,6,0.75,prior,True,-0.09375,-0.120136,0.172571,-0.172571
+Slate.fr,-0.528701,center-left,4,0.6667,D0,False,-0.081293,-0.104173,0.203632,-0.203632
+Slate.fr,-0.528701,center-left,4,0.6667,D1,False,,,,
+Slate.fr,-0.528701,center-left,4,0.6667,D2,False,,,,
+Slate.fr,-0.528701,center-left,4,0.6667,D3,False,-0.016836,-0.021575,0.042174,-0.042174
+Slate.fr,-0.528701,center-left,4,0.6667,D4,False,,,,
+Slate.fr,-0.528701,center-left,4,0.6667,D6a,False,,,,
+Slate.fr,-0.528701,center-left,4,0.6667,D6b,False,-0.130744,-0.167542,0.327504,-0.327504
+Slate.fr,-0.528701,center-left,4,0.6667,D7,False,-0.170341,-0.218284,0.42669,-0.42669
+Slate.fr,-0.528701,center-left,4,0.6667,D8,False,,,,
+Slate.fr,-0.528701,center-left,4,0.6667,prior,True,0.0,0.0,0.0,0.0
+Franceinfo,-0.411227,center-left,8,0.8,D0,False,-0.014633,-0.018751,0.045659,-0.045659
+Franceinfo,-0.411227,center-left,8,0.8,D1,False,-0.110797,-0.141981,0.345722,-0.345722
+Franceinfo,-0.411227,center-left,8,0.8,D2,False,-0.006409,-0.008213,0.019999,-0.019999
+Franceinfo,-0.411227,center-left,8,0.8,D3,False,0.006468,0.008289,0.020184,0.020184
+Franceinfo,-0.411227,center-left,8,0.8,D4,False,-0.083527,-0.107036,0.260632,-0.260632
+Franceinfo,-0.411227,center-left,8,0.8,D6a,False,-0.025631,-0.032845,0.079976,-0.079976
+Franceinfo,-0.411227,center-left,8,0.8,D6b,False,-0.03432,-0.04398,0.107091,-0.107091
+Franceinfo,-0.411227,center-left,8,0.8,D7,False,-0.038694,-0.049584,0.120738,-0.120738
+Franceinfo,-0.411227,center-left,8,0.8,D8,False,,,,
+Franceinfo,-0.411227,center-left,8,0.8,prior,True,0.0,0.0,0.0,0.0
+20 Minutes,-0.313615,center-left,7,0.7778,D0,False,-0.016259,-0.020835,0.065812,-0.065812
+20 Minutes,-0.313615,center-left,7,0.7778,D1,False,,,,
+20 Minutes,-0.313615,center-left,7,0.7778,D2,False,,,,
+20 Minutes,-0.313615,center-left,7,0.7778,D3,False,0.007838,0.010044,0.031725,0.031725
+20 Minutes,-0.313615,center-left,7,0.7778,D4,False,-0.092808,-0.118929,0.375673,-0.375673
+20 Minutes,-0.313615,center-left,7,0.7778,D6a,False,-0.028479,-0.036494,0.115277,-0.115277
+20 Minutes,-0.313615,center-left,7,0.7778,D6b,False,-0.038134,-0.048867,0.15436,-0.15436
+20 Minutes,-0.313615,center-left,7,0.7778,D7,False,-0.063528,-0.081408,0.257152,-0.257152
+20 Minutes,-0.313615,center-left,7,0.7778,D8,False,0.0,0.0,0.0,0.0
+20 Minutes,-0.313615,center-left,7,0.7778,prior,True,0.0,0.0,0.0,0.0
+Ouest-France,-0.16249,center,5,0.7143,D0,False,-0.020904,-0.026787,0.133631,-0.133631
+Ouest-France,-0.16249,center,5,0.7143,D1,False,,,,
+Ouest-France,-0.16249,center,5,0.7143,D2,False,,,,
+Ouest-France,-0.16249,center,5,0.7143,D3,False,0.007489,0.009597,0.047873,0.047873
+Ouest-France,-0.16249,center,5,0.7143,D4,False,,,,
+Ouest-France,-0.16249,center,5,0.7143,D6a,False,-0.036615,-0.046921,0.234068,-0.234068
+Ouest-France,-0.16249,center,5,0.7143,D6b,False,0.014008,0.017951,0.08955,0.08955
+Ouest-France,-0.16249,center,5,0.7143,D7,False,-0.077414,-0.099202,0.494878,-0.494878
+Ouest-France,-0.16249,center,5,0.7143,D8,False,,,,
+Ouest-France,-0.16249,center,5,0.7143,prior,True,0.0,0.0,0.0,0.0
+RFI,-0.108097,center,7,0.7778,D0,False,-0.016259,-0.020835,0.139745,-0.139745
+RFI,-0.108097,center,7,0.7778,D1,False,,,,
+RFI,-0.108097,center,7,0.7778,D2,False,,,,
+RFI,-0.108097,center,7,0.7778,D3,False,-0.010796,-0.013835,0.092797,-0.092797
+RFI,-0.108097,center,7,0.7778,D4,False,0.0,0.0,0.0,0.0
+RFI,-0.108097,center,7,0.7778,D6a,False,-0.028479,-0.036494,0.244778,-0.244778
+RFI,-0.108097,center,7,0.7778,D6b,False,-0.038134,-0.048867,0.327765,-0.327765
+RFI,-0.108097,center,7,0.7778,D7,False,0.022677,0.02906,0.194915,0.194915
+RFI,-0.108097,center,7,0.7778,D8,False,0.0,0.0,0.0,0.0
+RFI,-0.108097,center,7,0.7778,prior,True,0.0,0.0,0.0,0.0
+Challenges,-0.104787,center,4,0.6667,D0,False,-0.081293,-0.104173,0.760327,-0.760327
+Challenges,-0.104787,center,4,0.6667,D1,False,,,,
+Challenges,-0.104787,center,4,0.6667,D2,False,,,,
+Challenges,-0.104787,center,4,0.6667,D3,False,-0.00637,-0.008163,0.059577,-0.059577
+Challenges,-0.104787,center,4,0.6667,D4,False,,,,
+Challenges,-0.104787,center,4,0.6667,D6a,False,,,,
+Challenges,-0.104787,center,4,0.6667,D6b,False,0.016343,0.020943,0.152855,0.152855
+Challenges,-0.104787,center,4,0.6667,D7,False,0.002913,0.003732,0.027241,0.027241
+Challenges,-0.104787,center,4,0.6667,D8,False,,,,
+Challenges,-0.104787,center,4,0.6667,prior,True,0.0,0.0,0.0,0.0
+France 24,-0.026405,center,7,0.7778,D0,False,-0.016259,-0.020835,0.102577,-0.102577
+France 24,-0.026405,center,7,0.7778,D1,False,,,,
+France 24,-0.026405,center,7,0.7778,D2,False,,,,
+France 24,-0.026405,center,7,0.7778,D3,False,0.028288,0.03625,0.178471,0.178471
+France 24,-0.026405,center,7,0.7778,D4,False,0.0,0.0,0.0,0.0
+France 24,-0.026405,center,7,0.7778,D6a,False,-0.028479,-0.036494,0.179674,-0.179674
+France 24,-0.026405,center,7,0.7778,D6b,False,-0.038134,-0.048867,0.240589,-0.240589
+France 24,-0.026405,center,7,0.7778,D7,False,0.047343,0.060668,0.29869,0.29869
+France 24,-0.026405,center,7,0.7778,D8,False,0.0,0.0,0.0,0.0
+France 24,-0.026405,center,7,0.7778,prior,True,0.0,0.0,0.0,0.0
+BFMTV,0.066959,center,6,0.75,D0,False,0.024388,0.031252,0.133063,0.133063
+BFMTV,0.066959,center,6,0.75,D1,False,-0.025893,-0.03318,0.141273,-0.141273
+BFMTV,0.066959,center,6,0.75,D2,False,0.077444,0.099241,0.422542,0.422542
+BFMTV,0.066959,center,6,0.75,D3,False,0.022618,0.028983,0.123404,0.123404
+BFMTV,0.066959,center,6,0.75,D4,False,,,,
+BFMTV,0.066959,center,6,0.75,D6a,False,,,,
+BFMTV,0.066959,center,6,0.75,D6b,False,,,,
+BFMTV,0.066959,center,6,0.75,D7,False,-0.032939,-0.04221,0.179718,-0.179718
+BFMTV,0.066959,center,6,0.75,D8,False,0.0,0.0,0.0,0.0
+BFMTV,0.066959,center,6,0.75,prior,True,0.0,0.0,0.0,0.0
+Le Parisien,0.102626,center,7,0.7778,D0,False,0.059615,0.076393,0.262996,0.262996
+Le Parisien,0.102626,center,7,0.7778,D1,False,,,,
+Le Parisien,0.102626,center,7,0.7778,D2,False,,,,
+Le Parisien,0.102626,center,7,0.7778,D3,False,0.003239,0.004151,0.014289,0.014289
+Le Parisien,0.102626,center,7,0.7778,D4,False,0.092808,0.118929,0.409431,0.409431
+Le Parisien,0.102626,center,7,0.7778,D6a,False,-0.028479,-0.036494,0.125636,-0.125636
+Le Parisien,0.102626,center,7,0.7778,D6b,False,-0.038134,-0.048867,0.168231,-0.168231
+Le Parisien,0.102626,center,7,0.7778,D7,False,0.004401,0.00564,0.019417,0.019417
+Le Parisien,0.102626,center,7,0.7778,D8,False,0.0,0.0,0.0,0.0
+Le Parisien,0.102626,center,7,0.7778,prior,True,0.0,0.0,0.0,0.0
+La Croix,0.12526,center,5,0.7143,D0,False,0.027872,0.035716,0.107132,0.107132
+La Croix,0.12526,center,5,0.7143,D1,False,,,,
+La Croix,0.12526,center,5,0.7143,D2,False,,,,
+La Croix,0.12526,center,5,0.7143,D3,False,-0.008792,-0.011267,0.033795,-0.033795
+La Croix,0.12526,center,5,0.7143,D4,False,,,,
+La Croix,0.12526,center,5,0.7143,D6a,False,0.036615,0.046921,0.14074,0.14074
+La Croix,0.12526,center,5,0.7143,D6b,False,0.014008,0.017951,0.053844,0.053844
+La Croix,0.12526,center,5,0.7143,D7,False,-0.065733,-0.084233,0.25266,-0.25266
+La Croix,0.12526,center,5,0.7143,D8,False,,,,
+La Croix,0.12526,center,5,0.7143,prior,True,0.107143,0.137299,0.411829,0.411829
+L'Express,0.178355,center,6,0.75,D0,False,0.05284,0.067712,0.155391,0.155391
+L'Express,0.178355,center,6,0.75,D1,False,,,,
+L'Express,0.178355,center,6,0.75,D2,False,0.013352,0.01711,0.039266,0.039266
+L'Express,0.178355,center,6,0.75,D3,False,0.02078,0.026628,0.061108,0.061108
+L'Express,0.178355,center,6,0.75,D4,False,,,,
+L'Express,0.178355,center,6,0.75,D6a,False,0.096115,0.123167,0.282653,0.282653
+L'Express,0.178355,center,6,0.75,D6b,False,0.012257,0.015707,0.036046,0.036046
+L'Express,0.178355,center,6,0.75,D7,False,0.050952,0.065292,0.149838,0.149838
+L'Express,0.178355,center,6,0.75,D8,False,,,,
+L'Express,0.178355,center,6,0.75,prior,True,-0.09375,-0.120136,0.275697,-0.275697
+TF1 INFO,0.356499,center-right,5,0.7143,D0,False,0.027872,0.035716,0.095594,0.095594
+TF1 INFO,0.356499,center-right,5,0.7143,D1,False,,,,
+TF1 INFO,0.356499,center-right,5,0.7143,D2,False,0.18617,0.238569,0.638524,0.638524
+TF1 INFO,0.356499,center-right,5,0.7143,D3,False,0.061272,0.078517,0.21015,0.21015
+TF1 INFO,0.356499,center-right,5,0.7143,D4,False,,,,
+TF1 INFO,0.356499,center-right,5,0.7143,D6a,False,,,,
+TF1 INFO,0.356499,center-right,5,0.7143,D6b,False,,,,
+TF1 INFO,0.356499,center-right,5,0.7143,D7,False,0.016249,0.020823,0.055731,0.055731
+TF1 INFO,0.356499,center-right,5,0.7143,D8,False,0.0,0.0,0.0,0.0
+TF1 INFO,0.356499,center-right,5,0.7143,prior,True,0.0,0.0,0.0,0.0
+Les Echos,0.42874,center-right,5,0.7143,D0,False,0.076647,0.09822,0.194821,0.194821
+Les Echos,0.42874,center-right,5,0.7143,D1,False,,,,
+Les Echos,0.42874,center-right,5,0.7143,D2,False,,,,
+Les Echos,0.42874,center-right,5,0.7143,D3,False,-0.015552,-0.01993,0.039531,-0.039531
+Les Echos,0.42874,center-right,5,0.7143,D4,False,,,,
+Les Echos,0.42874,center-right,5,0.7143,D6a,False,0.109846,0.140763,0.279204,0.279204
+Les Echos,0.42874,center-right,5,0.7143,D6b,False,0.077046,0.09873,0.195833,0.195833
+Les Echos,0.42874,center-right,5,0.7143,D7,False,-0.007192,-0.009216,0.01828,-0.01828
+Les Echos,0.42874,center-right,5,0.7143,D8,False,,,,
+Les Echos,0.42874,center-right,5,0.7143,prior,True,0.107143,0.137299,0.272333,0.272333
+Le Point,0.562831,center-right,5,0.7143,D0,False,0.092906,0.119055,0.205282,0.205282
+Le Point,0.562831,center-right,5,0.7143,D1,False,,,,
+Le Point,0.562831,center-right,5,0.7143,D2,False,,,,
+Le Point,0.562831,center-right,5,0.7143,D3,False,0.035179,0.045081,0.077731,0.077731
+Le Point,0.562831,center-right,5,0.7143,D4,False,0.119324,0.152908,0.263654,0.263654
+Le Point,0.562831,center-right,5,0.7143,D6a,False,,,,
+Le Point,0.562831,center-right,5,0.7143,D6b,False,0.077046,0.09873,0.170237,0.170237
+Le Point,0.562831,center-right,5,0.7143,D7,False,0.02098,0.026885,0.046356,0.046356
+Le Point,0.562831,center-right,5,0.7143,D8,False,,,,
+Le Point,0.562831,center-right,5,0.7143,prior,True,0.107143,0.137299,0.236739,0.236739
+L'Opinion,0.598903,center-right,5,0.7143,D0,False,0.060389,0.077386,0.12562,0.12562
+L'Opinion,0.598903,center-right,5,0.7143,D1,False,,,,
+L'Opinion,0.598903,center-right,5,0.7143,D2,False,,,,
+L'Opinion,0.598903,center-right,5,0.7143,D3,False,0.034937,0.04477,0.072675,0.072675
+L'Opinion,0.598903,center-right,5,0.7143,D4,False,,,,
+L'Opinion,0.598903,center-right,5,0.7143,D6a,False,0.109846,0.140763,0.228499,0.228499
+L'Opinion,0.598903,center-right,5,0.7143,D6b,False,0.077046,0.09873,0.160269,0.160269
+L'Opinion,0.598903,center-right,5,0.7143,D7,False,0.091367,0.117083,0.190061,0.190061
+L'Opinion,0.598903,center-right,5,0.7143,D8,False,,,,
+L'Opinion,0.598903,center-right,5,0.7143,prior,True,0.107143,0.137299,0.222876,0.222876
+JDD,0.95488,right,5,0.7143,D0,False,0.222974,0.285731,0.258659,0.258659
+JDD,0.95488,right,5,0.7143,D1,False,,,,
+JDD,0.95488,right,5,0.7143,D2,False,,,,
+JDD,0.95488,right,5,0.7143,D3,False,-0.015146,-0.019409,0.01757,-0.01757
+JDD,0.95488,right,5,0.7143,D4,False,,,,
+JDD,0.95488,right,5,0.7143,D6a,False,-0.036615,-0.046921,0.042475,-0.042475
+JDD,0.95488,right,5,0.7143,D6b,False,0.20312,0.260289,0.235627,0.235627
+JDD,0.95488,right,5,0.7143,D7,False,0.277042,0.355017,0.32138,0.32138
+JDD,0.95488,right,5,0.7143,D8,False,,,,
+JDD,0.95488,right,5,0.7143,prior,True,0.107143,0.137299,0.12429,0.12429
+CNews,0.957349,right,5,0.7143,D0,False,0.222974,0.285731,0.293215,0.293215
+CNews,0.957349,right,5,0.7143,D1,False,0.187872,0.24075,0.247056,0.247056
+CNews,0.957349,right,5,0.7143,D2,False,,,,
+CNews,0.957349,right,5,0.7143,D3,False,0.027827,0.035659,0.036593,0.036593
+CNews,0.957349,right,5,0.7143,D4,False,,,,
+CNews,0.957349,right,5,0.7143,D6a,False,,,,
+CNews,0.957349,right,5,0.7143,D6b,False,0.20312,0.260289,0.267107,0.267107
+CNews,0.957349,right,5,0.7143,D7,False,0.118652,0.152047,0.156029,0.156029
+CNews,0.957349,right,5,0.7143,D8,False,,,,
+CNews,0.957349,right,5,0.7143,prior,True,0.0,0.0,0.0,0.0
+Le Figaro,1.023624,right,7,0.7778,D0,False,0.110197,0.141212,0.135683,0.135683
+Le Figaro,1.023624,right,7,0.7778,D1,False,,,,
+Le Figaro,1.023624,right,7,0.7778,D2,False,0.125809,0.161219,0.154906,0.154906
+Le Figaro,1.023624,right,7,0.7778,D3,False,0.023707,0.030379,0.02919,0.02919
+Le Figaro,1.023624,right,7,0.7778,D4,False,0.092808,0.118929,0.114272,0.114272
+Le Figaro,1.023624,right,7,0.7778,D6a,False,,,,
+Le Figaro,1.023624,right,7,0.7778,D6b,False,0.108953,0.139619,0.134152,0.134152
+Le Figaro,1.023624,right,7,0.7778,D7,False,0.091216,0.116889,0.112312,0.112312
+Le Figaro,1.023624,right,7,0.7778,D8,False,0.092808,0.118929,0.114272,0.114272
+Le Figaro,1.023624,right,7,0.7778,prior,True,0.166667,0.213576,0.205213,0.205213
+Atlantico,1.077103,right,4,0.6667,D0,False,,,,
+Atlantico,1.077103,right,4,0.6667,D1,False,,,,
+Atlantico,1.077103,right,4,0.6667,D2,False,,,,
+Atlantico,1.077103,right,4,0.6667,D3,False,0.276965,0.354918,0.324354,0.324354
+Atlantico,1.077103,right,4,0.6667,D4,False,,,,
+Atlantico,1.077103,right,4,0.6667,D6a,False,0.128154,0.164223,0.150081,0.150081
+Atlantico,1.077103,right,4,0.6667,D6b,False,0.16343,0.209428,0.191393,0.191393
+Atlantico,1.077103,right,4,0.6667,D7,False,0.160349,0.205479,0.187785,0.187785
+Atlantico,1.077103,right,4,0.6667,D8,False,,,,
+Atlantico,1.077103,right,4,0.6667,prior,True,0.125,0.160182,0.146388,0.146388
+Causeur,1.530523,far-right,5,0.7143,D0,False,0.174199,0.223228,0.144237,0.144237
+Causeur,1.530523,far-right,5,0.7143,D1,False,,,,
+Causeur,1.530523,far-right,5,0.7143,D2,False,,,,
+Causeur,1.530523,far-right,5,0.7143,D3,False,0.227923,0.292073,0.18872,0.18872
+Causeur,1.530523,far-right,5,0.7143,D4,False,0.178986,0.229362,0.148201,0.148201
+Causeur,1.530523,far-right,5,0.7143,D6a,False,,,,
+Causeur,1.530523,far-right,5,0.7143,D6b,False,0.20312,0.260289,0.168184,0.168184
+Causeur,1.530523,far-right,5,0.7143,D7,False,0.209216,0.2681,0.173231,0.173231
+Causeur,1.530523,far-right,5,0.7143,D8,False,,,,
+Causeur,1.530523,far-right,5,0.7143,prior,True,0.214286,0.274597,0.177428,0.177428
+Fdesouche,1.840422,far-right,5,0.7143,D0,False,,,,
+Fdesouche,1.840422,far-right,5,0.7143,D1,False,,,,
+Fdesouche,1.840422,far-right,5,0.7143,D2,False,,,,
+Fdesouche,1.840422,far-right,5,0.7143,D3,False,0.25676,0.329026,0.177129,0.177129
+Fdesouche,1.840422,far-right,5,0.7143,D4,False,0.238648,0.305817,0.164635,0.164635
+Fdesouche,1.840422,far-right,5,0.7143,D6a,False,0.256307,0.328446,0.176817,0.176817
+Fdesouche,1.840422,far-right,5,0.7143,D6b,False,0.20312,0.260289,0.140125,0.140125
+Fdesouche,1.840422,far-right,5,0.7143,D7,False,0.280442,0.359373,0.193466,0.193466
+Fdesouche,1.840422,far-right,5,0.7143,D8,False,,,,
+Fdesouche,1.840422,far-right,5,0.7143,prior,True,0.214286,0.274597,0.147828,0.147828
+Valeurs actuelles,1.872459,far-right,6,0.75,D0,False,0.266234,0.341166,0.180551,0.180551
+Valeurs actuelles,1.872459,far-right,6,0.75,D1,False,,,,
+Valeurs actuelles,1.872459,far-right,6,0.75,D2,False,,,,
+Valeurs actuelles,1.872459,far-right,6,0.75,D3,False,0.221819,0.284251,0.15043,0.15043
+Valeurs actuelles,1.872459,far-right,6,0.75,D4,False,0.156613,0.200692,0.10621,0.10621
+Valeurs actuelles,1.872459,far-right,6,0.75,D6a,False,0.224269,0.28739,0.152092,0.152092
+Valeurs actuelles,1.872459,far-right,6,0.75,D6b,False,0.17773,0.227753,0.120531,0.120531
+Valeurs actuelles,1.872459,far-right,6,0.75,D7,False,0.2404,0.308061,0.163031,0.163031
+Valeurs actuelles,1.872459,far-right,6,0.75,D8,False,,,,
+Valeurs actuelles,1.872459,far-right,6,0.75,prior,True,0.1875,0.240272,0.127156,0.127156

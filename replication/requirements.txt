@@ -1,0 +1,10 @@
+# FrIdéo replication — everything `make all` and `make check` need.
+# The pipeline is otherwise pure standard library.
+#
+# Pinned to the versions the shipped results were reproduced and verified with
+# (clean venv, 2026-08-05: `make check` 29/29, `make all` byte-identical for
+# every CSV and JSON output). Numeric outputs are stable across nearby
+# versions; plot bytes are not.
+numpy==2.2.6
+matplotlib==3.10.9
+scikit-learn==1.7.2

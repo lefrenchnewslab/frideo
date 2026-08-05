@@ -1,0 +1,31 @@
+outlet,score,label_bw1.0x,label_bw1.25x,label_bw1.5x,label_bw1.75x,label_bw2.0x,stable
+20 Minutes,-0.3136,center-left,center-left,center-left,center-left,center-left,True
+Atlantico,1.0771,right,right,right,right,right,True
+BFMTV,0.067,center,center,center,center,center,True
+Blast,-1.6473,far-left,far-left,far-left,far-left,far-left,True
+CNews,0.9573,right,right,right,right,right,True
+Causeur,1.5305,far-right,far-right,far-right,far-right,far-right,True
+Challenges,-0.1048,center,center,center,center,center,True
+Fdesouche,1.8404,far-right,far-right,far-right,far-right,far-right,True
+France 24,-0.0264,center,center,center,center,center,True
+Franceinfo,-0.4112,center-left,center-left,center-left,center-left,center-left,True
+JDD,0.9549,right,right,right,right,right,True
+L'Express,0.1784,center,center,center,center,center,True
+L'Humanité,-2.4117,far-left,far-left,far-left,far-left,far-left,True
+L'Opinion,0.5989,center-right,center-right,center-right,center-right,center-right,True
+La Croix,0.1253,center,center,center,center,center,True
+Le Figaro,1.0236,right,right,right,right,right,True
+Le HuffPost,-0.9962,left,left,left,left,left,True
+Le Monde,-0.7071,center-left,center-left,center-left,center-left,center-left,True
+Le Nouvel Obs,-0.8939,left,left,left,left,left,True
+Le Parisien,0.1026,center,center,center,center,center,True
+Le Point,0.5628,center-right,center-right,center-right,center-right,center-right,True
+Les Echos,0.4287,center-right,center-right,center-right,center-right,center-right,True
+Libération,-1.0798,left,left,left,left,left,True
+Marianne,-0.6508,center-left,center-left,center-left,center-left,center-left,True
+Mediapart,-1.6344,far-left,far-left,far-left,far-left,far-left,True
+Ouest-France,-0.1625,center,center,center,center,center,True
+RFI,-0.1081,center,center,center,center,center,True
+Slate.fr,-0.5287,center-left,center-left,center-left,center-left,center-left,True
+TF1 INFO,0.3565,center-right,center-right,center-right,center-right,center-right,True
+Valeurs actuelles,1.8725,far-right,far-right,far-right,far-right,far-right,True

@@ -1,0 +1,31 @@
+outlet,matched_label,wheel_subcategory,ppr_score,ppr_z,ppr_z_panel
+L'Humanité,L'Humanité,Left Wing,-0.970616,-1.516875,-3.00934
+Blast,,,,,
+Mediapart,Mediapart,Left Wing,-0.673614,-1.076386,-2.074486
+Libération,Libération,Hyper-centre,-0.050803,-0.152684,-0.114105
+Le HuffPost,HuffingtonPost.fr,Hyper-centre,-0.048442,-0.149183,-0.106674
+Le Nouvel Obs,L'Obs,Centre,-0.044262,-0.142983,-0.093516
+Marianne,Marianne,Left Wing,-0.525585,-0.856842,-1.608546
+Le Monde,Le Monde,Hyper-centre,-0.093564,-0.216104,-0.248701
+20 Minutes,20minutes.fr,Hyper-centre,-0.012636,-0.096077,0.006033
+Slate.fr,Slate.fr,Centre,-0.068809,-0.179389,-0.170781
+Franceinfo,,,,,
+Ouest-France,Ouest France,Hyper-centre,-0.018567,-0.104875,-0.012639
+BFMTV,BFMTV,Hyper-centre,0.023514,-0.042463,0.119819
+Le Parisien,Le Parisien (Aujourd'hui en France),Hyper-centre,-0.026187,-0.116176,-0.036623
+La Croix,La Croix,Centre,-0.055884,-0.16022,-0.130098
+Le Point,Le Point,Hyper-centre,0.0449,-0.010745,0.187134
+Les Echos,Les Echos,Centre,-0.071378,-0.1832,-0.178869
+L'Express,L'Express,Hyper-centre,0.0187,-0.049603,0.104665
+TF1 INFO,LCI / TF1,Hyper-centre,0.104706,0.077954,0.375381
+JDD,Le Journal du Dimanche (JDD),Hyper-centre,-0.070447,-0.181818,-0.175936
+Le Figaro,Le Figaro,Hyper-centre,0.034129,-0.026719,0.153232
+CNews,CNews,PQR & Mag,0.028048,-0.035738,0.134091
+Causeur,Causeur.fr,Right Wing,0.486676,0.644461,1.577684
+Fdesouche,FDeSouche,Identitarian,0.552772,0.742489,1.785729
+Valeurs actuelles,Valeurs Actuelles,Right Wing,0.545316,0.731431,1.762261
+RFI,RFI,Centre,-0.067548,-0.177519,-0.166812
+France 24,France 24,Centre,0.047629,-0.006697,0.195725
+Challenges,Challenges,Centre,-0.048246,-0.148892,-0.106057
+Atlantico,Atlantico.fr,Right Wing,0.508394,0.676671,1.646043
+L'Opinion,L'Opinion,Centre,0.044345,-0.011569,0.185385

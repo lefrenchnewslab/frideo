@@ -1,0 +1,49 @@
+{
+  "families": [
+    "D0",
+    "D3",
+    "D6b",
+    "D7"
+  ],
+  "n_outlets": 25,
+  "outlets": [
+    "L'Humanité",
+    "Mediapart",
+    "Blast",
+    "Libération",
+    "Le Monde",
+    "Le Nouvel Obs",
+    "Slate.fr",
+    "Franceinfo",
+    "20 Minutes",
+    "Le Parisien",
+    "Ouest-France",
+    "La Croix",
+    "L'Express",
+    "Les Echos",
+    "Le Point",
+    "Marianne",
+    "JDD",
+    "Le Figaro",
+    "CNews",
+    "Causeur",
+    "Valeurs actuelles",
+    "RFI",
+    "France 24",
+    "Challenges",
+    "L'Opinion"
+  ],
+  "pc1_variance_explained": 0.885,
+  "eigenvalues": [
+    3.5989,
+    0.3026,
+    0.1095,
+    0.0555
+  ],
+  "pc1_loadings": {
+    "D0": -0.5384,
+    "D3": -0.448,
+    "D6b": -0.5089,
+    "D7": -0.5005
+  }
+}

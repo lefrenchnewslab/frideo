@@ -1,0 +1,5 @@
+variant,rho_vs_full_model,n_outlets_rho,coverage_non_null,largest_abs_shift_vs_full
+bow,0.862069,30,30,0.486782
+guillemets_only,0.923026,30,30,0.034197
+guillemets_prefix,0.922581,30,30,0.020088
+full_symmetric,0.92525,30,30,0.0

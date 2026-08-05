@@ -1,0 +1,188 @@
+{
+  "full_vs_no_d4_rho": 0.9969,
+  "label_shifts": 2,
+  "max_abs_shift": 0.224,
+  "max_shift_outlet": "Le HuffPost",
+  "outlet_deltas": [
+    {
+      "outlet": "L'Humanit\u00e9",
+      "full_score": -2.4117,
+      "no_d4_score": -2.4129,
+      "delta": 0.0011
+    },
+    {
+      "outlet": "Blast",
+      "full_score": -1.6473,
+      "no_d4_score": -1.6518,
+      "delta": 0.0045
+    },
+    {
+      "outlet": "Mediapart",
+      "full_score": -1.6344,
+      "no_d4_score": -1.707,
+      "delta": 0.0726
+    },
+    {
+      "outlet": "Lib\u00e9ration",
+      "full_score": -1.0798,
+      "no_d4_score": -1.2028,
+      "delta": 0.123
+    },
+    {
+      "outlet": "Le HuffPost",
+      "full_score": -0.9962,
+      "no_d4_score": -0.7722,
+      "delta": -0.224
+    },
+    {
+      "outlet": "Le Nouvel Obs",
+      "full_score": -0.8939,
+      "no_d4_score": -0.9016,
+      "delta": 0.0078
+    },
+    {
+      "outlet": "Le Monde",
+      "full_score": -0.7071,
+      "no_d4_score": -0.7853,
+      "delta": 0.0782
+    },
+    {
+      "outlet": "Marianne",
+      "full_score": -0.6508,
+      "no_d4_score": -0.5975,
+      "delta": -0.0533
+    },
+    {
+      "outlet": "Slate.fr",
+      "full_score": -0.5287,
+      "no_d4_score": -0.5381,
+      "delta": 0.0094
+    },
+    {
+      "outlet": "Franceinfo",
+      "full_score": -0.4112,
+      "no_d4_score": -0.3463,
+      "delta": -0.0649
+    },
+    {
+      "outlet": "20 Minutes",
+      "full_score": -0.3136,
+      "no_d4_score": -0.1963,
+      "delta": -0.1173
+    },
+    {
+      "outlet": "Ouest-France",
+      "full_score": -0.1625,
+      "no_d4_score": -0.1735,
+      "delta": 0.011
+    },
+    {
+      "outlet": "RFI",
+      "full_score": -0.1081,
+      "no_d4_score": -0.0993,
+      "delta": -0.0087
+    },
+    {
+      "outlet": "Challenges",
+      "full_score": -0.1048,
+      "no_d4_score": -0.116,
+      "delta": 0.0112
+    },
+    {
+      "outlet": "France 24",
+      "full_score": -0.0264,
+      "no_d4_score": -0.0078,
+      "delta": -0.0186
+    },
+    {
+      "outlet": "BFMTV",
+      "full_score": 0.067,
+      "no_d4_score": 0.0863,
+      "delta": -0.0193
+    },
+    {
+      "outlet": "Le Parisien",
+      "full_score": 0.1026,
+      "no_d4_score": 0.0035,
+      "delta": 0.0992
+    },
+    {
+      "outlet": "La Croix",
+      "full_score": 0.1253,
+      "no_d4_score": 0.113,
+      "delta": 0.0122
+    },
+    {
+      "outlet": "L'Express",
+      "full_score": 0.1784,
+      "no_d4_score": 0.1659,
+      "delta": 0.0125
+    },
+    {
+      "outlet": "TF1 INFO",
+      "full_score": 0.3565,
+      "no_d4_score": 0.379,
+      "delta": -0.0225
+    },
+    {
+      "outlet": "Les Echos",
+      "full_score": 0.4287,
+      "no_d4_score": 0.4152,
+      "delta": 0.0136
+    },
+    {
+      "outlet": "Le Point",
+      "full_score": 0.5628,
+      "no_d4_score": 0.4673,
+      "delta": 0.0955
+    },
+    {
+      "outlet": "L'Opinion",
+      "full_score": 0.5989,
+      "no_d4_score": 0.5846,
+      "delta": 0.0143
+    },
+    {
+      "outlet": "JDD",
+      "full_score": 0.9549,
+      "no_d4_score": 0.939,
+      "delta": 0.0159
+    },
+    {
+      "outlet": "CNews",
+      "full_score": 0.9573,
+      "no_d4_score": 0.9415,
+      "delta": 0.0159
+    },
+    {
+      "outlet": "Le Figaro",
+      "full_score": 1.0236,
+      "no_d4_score": 1.1833,
+      "delta": -0.1597
+    },
+    {
+      "outlet": "Atlantico",
+      "full_score": 1.0771,
+      "no_d4_score": 1.0607,
+      "delta": 0.0164
+    },
+    {
+      "outlet": "Causeur",
+      "full_score": 1.5305,
+      "no_d4_score": 1.5025,
+      "delta": 0.028
+    },
+    {
+      "outlet": "Fdesouche",
+      "full_score": 1.8404,
+      "no_d4_score": 1.7737,
+      "delta": 0.0667
+    },
+    {
+      "outlet": "Valeurs actuelles",
+      "full_score": 1.8725,
+      "no_d4_score": 1.893,
+      "delta": -0.0205
+    }
+  ]
+}

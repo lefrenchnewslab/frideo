@@ -1,0 +1,114 @@
+{
+  "independent_families": [
+    "D0",
+    "D1",
+    "D3",
+    "D6a",
+    "D7"
+  ],
+  "excluded_families": [
+    "D2",
+    "D4",
+    "D6b",
+    "D8"
+  ],
+  "n_outlets": 15,
+  "rho_independent_vs_mbfc": 0.9312,
+  "rho_no_d4_vs_mbfc": 0.9182,
+  "rho_full_vs_mbfc": 0.9312,
+  "exact_match": 7,
+  "adjacent": 7,
+  "distant": 1,
+  "outlet_scores": [
+    {
+      "outlet": "Mediapart",
+      "independent_score": -1.6662,
+      "independent_label": "far-left",
+      "mbfc_label": "center-left"
+    },
+    {
+      "outlet": "Lib\u00e9ration",
+      "independent_score": -0.8756,
+      "independent_label": "left",
+      "mbfc_label": "center-left"
+    },
+    {
+      "outlet": "Le HuffPost",
+      "independent_score": -0.8152,
+      "independent_label": "left",
+      "mbfc_label": "far-left"
+    },
+    {
+      "outlet": "Le Monde",
+      "independent_score": -0.6556,
+      "independent_label": "center-left",
+      "mbfc_label": "center-left"
+    },
+    {
+      "outlet": "Marianne",
+      "independent_score": -0.6523,
+      "independent_label": "center-left",
+      "mbfc_label": "center-left"
+    },
+    {
+      "outlet": "Franceinfo",
+      "independent_score": -0.3791,
+      "independent_label": "center-left",
+      "mbfc_label": "center-left"
+    },
+    {
+      "outlet": "20 Minutes",
+      "independent_score": -0.2279,
+      "independent_label": "center",
+      "mbfc_label": "center-left"
+    },
+    {
+      "outlet": "RFI",
+      "independent_score": -0.0902,
+      "independent_label": "center",
+      "mbfc_label": "center"
+    },
+    {
+      "outlet": "France 24",
+      "independent_score": 0.0397,
+      "independent_label": "center",
+      "mbfc_label": "center"
+    },
+    {
+      "outlet": "Le Parisien",
+      "independent_score": 0.0558,
+      "independent_label": "center",
+      "mbfc_label": "center-right"
+    },
+    {
+      "outlet": "Le Point",
+      "independent_score": 0.4642,
+      "independent_label": "center-right",
+      "mbfc_label": "center-right"
+    },
+    {
+      "outlet": "Le Figaro",
+      "independent_score": 0.9352,
+      "independent_label": "right",
+      "mbfc_label": "center-right"
+    },
+    {
+      "outlet": "Causeur",
+      "independent_score": 1.5476,
+      "independent_label": "far-right",
+      "mbfc_label": "right"
+    },
+    {
+      "outlet": "Fdesouche",
+      "independent_score": 1.8942,
+      "independent_label": "far-right",
+      "mbfc_label": "far-right"
+    },
+    {
+      "outlet": "Valeurs actuelles",
+      "independent_score": 2.0428,
+      "independent_label": "far-right",
+      "mbfc_label": "right"
+    }
+  ]
+}

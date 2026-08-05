@@ -1,0 +1,103 @@
+{
+  "multipliers_tested": [
+    1.0,
+    1.25,
+    1.5,
+    1.75,
+    2.0
+  ],
+  "baseline_multiplier": 1.5,
+  "n_outlets": 30,
+  "n_stable": 30,
+  "n_boundary": 0,
+  "stable_outlets": [
+    "20 Minutes",
+    "Atlantico",
+    "BFMTV",
+    "Blast",
+    "CNews",
+    "Causeur",
+    "Challenges",
+    "Fdesouche",
+    "France 24",
+    "Franceinfo",
+    "JDD",
+    "L'Express",
+    "L'Humanit\u00e9",
+    "L'Opinion",
+    "La Croix",
+    "Le Figaro",
+    "Le HuffPost",
+    "Le Monde",
+    "Le Nouvel Obs",
+    "Le Parisien",
+    "Le Point",
+    "Les Echos",
+    "Lib\u00e9ration",
+    "Marianne",
+    "Mediapart",
+    "Ouest-France",
+    "RFI",
+    "Slate.fr",
+    "TF1 INFO",
+    "Valeurs actuelles"
+  ],
+  "boundary_outlets": [],
+  "cutoffs_by_multiplier": {
+    "1.0": {
+      "cutoffs": [
+        -1.5,
+        -0.75,
+        -0.25,
+        0.25,
+        0.75,
+        1.5
+      ],
+      "bw": 0.4558
+    },
+    "1.25": {
+      "cutoffs": [
+        -1.5,
+        -0.75,
+        -0.25,
+        0.25,
+        0.75,
+        1.5
+      ],
+      "bw": 0.5698
+    },
+    "1.5": {
+      "cutoffs": [
+        -1.5,
+        -0.75,
+        -0.25,
+        0.25,
+        0.75,
+        1.5
+      ],
+      "bw": 0.6838
+    },
+    "1.75": {
+      "cutoffs": [
+        -1.5,
+        -0.75,
+        -0.25,
+        0.25,
+        0.75,
+        1.5
+      ],
+      "bw": 0.7977
+    },
+    "2.0": {
+      "cutoffs": [
+        -1.5,
+        -0.75,
+        -0.25,
+        0.25,
+        0.75,
+        1.5
+      ],
+      "bw": 0.9117
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "no_d4_vs_mbfc_rho": 0.9182,
+  "no_d4_vs_mbfc_rho_ci_95": [
+    0.766,
+    0.973
+  ],
+  "full_vs_mbfc_rho": 0.9312,
+  "n_outlets": 15,
+  "exact_match": 6,
+  "adjacent": 8,
+  "distant": 1,
+  "outlet_scores": [
+    {
+      "outlet": "Mediapart",
+      "no_d4_score": -1.707,
+      "no_d4_label": "far-left",
+      "mbfc_label": "center-left"
+    },
+    {
+      "outlet": "Lib\u00e9ration",
+      "no_d4_score": -1.2028,
+      "no_d4_label": "left",
+      "mbfc_label": "center-left"
+    },
+    {
+      "outlet": "Le Monde",
+      "no_d4_score": -0.7853,
+      "no_d4_label": "left",
+      "mbfc_label": "center-left"
+    },
+    {
+      "outlet": "Le HuffPost",
+      "no_d4_score": -0.7722,
+      "no_d4_label": "left",
+      "mbfc_label": "far-left"
+    },
+    {
+      "outlet": "Marianne",
+      "no_d4_score": -0.5975,
+      "no_d4_label": "center-left",
+      "mbfc_label": "center-left"
+    },
+    {
+      "outlet": "Franceinfo",
+      "no_d4_score": -0.3463,
+      "no_d4_label": "center-left",
+      "mbfc_label": "center-left"
+    },
+    {
+      "outlet": "20 Minutes",
+      "no_d4_score": -0.1963,
+      "no_d4_label": "center",
+      "mbfc_label": "center-left"
+    },
+    {
+      "outlet": "RFI",
+      "no_d4_score": -0.0993,
+      "no_d4_label": "center",
+      "mbfc_label": "center"
+    },
+    {
+      "outlet": "France 24",
+      "no_d4_score": -0.0078,
+      "no_d4_label": "center",
+      "mbfc_label": "center"
+    },
+    {
+      "outlet": "Le Parisien",
+      "no_d4_score": 0.0035,
+      "no_d4_label": "center",
+      "mbfc_label": "center-right"
+    },
+    {
+      "outlet": "Le Point",
+      "no_d4_score": 0.4673,
+      "no_d4_label": "center-right",
+      "mbfc_label": "center-right"
+    },
+    {
+      "outlet": "Le Figaro",
+      "no_d4_score": 1.1833,
+      "no_d4_label": "right",
+      "mbfc_label": "center-right"
+    },
+    {
+      "outlet": "Causeur",
+      "no_d4_score": 1.5025,
+      "no_d4_label": "far-right",
+      "mbfc_label": "right"
+    },
+    {
+      "outlet": "Fdesouche",
+      "no_d4_score": 1.7737,
+      "no_d4_label": "far-right",
+      "mbfc_label": "far-right"
+    },
+    {
+      "outlet": "Valeurs actuelles",
+      "no_d4_score": 1.893,
+      "no_d4_label": "far-right",
+      "mbfc_label": "right"
+    }
+  ]
+}

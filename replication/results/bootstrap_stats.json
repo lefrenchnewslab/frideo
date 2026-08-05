@@ -1,0 +1,6 @@
+{
+  "rho_mean": 0.9962,
+  "rho_min": 0.9884,
+  "pct_above_0_95": 1.0,
+  "n_iterations": 10000
+}

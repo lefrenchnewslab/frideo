@@ -1,0 +1,163 @@
+{
+  "description": "Refit with alpha_i = 1 (structural prior removed), then re-standardized across the same 30 outlets.",
+  "prior_dependent_sparse": {
+    "Blast": {
+      "full": -1.6473,
+      "no_prior": -1.6505,
+      "label_full": "far-left",
+      "label_no_prior": "far-left",
+      "label_held": true
+    },
+    "Le HuffPost": {
+      "full": -0.9962,
+      "no_prior": -1.0357,
+      "label_full": "left",
+      "label_no_prior": "left",
+      "label_held": true
+    },
+    "Atlantico": {
+      "full": 1.0771,
+      "no_prior": 1.1596,
+      "label_full": "right",
+      "label_no_prior": "right",
+      "label_held": true
+    }
+  },
+  "all_prior_dependent_sparse_labels_held": true,
+  "n_label_changes": 2,
+  "label_changes": [
+    {
+      "outlet": "L'Express",
+      "from": "center",
+      "to": "center-right"
+    },
+    {
+      "outlet": "Causeur",
+      "from": "far-right",
+      "to": "right"
+    }
+  ],
+  "max_abs_shift": 0.1716,
+  "scores": {
+    "L'Humanité": {
+      "full": -2.4117,
+      "no_prior": -2.4881
+    },
+    "Blast": {
+      "full": -1.6473,
+      "no_prior": -1.6505
+    },
+    "Mediapart": {
+      "full": -1.6344,
+      "no_prior": -1.6315
+    },
+    "Libération": {
+      "full": -1.0798,
+      "no_prior": -0.9216
+    },
+    "Le HuffPost": {
+      "full": -0.9962,
+      "no_prior": -1.0357
+    },
+    "Le Nouvel Obs": {
+      "full": -0.8939,
+      "no_prior": -0.8744
+    },
+    "Le Monde": {
+      "full": -0.7071,
+      "no_prior": -0.6361
+    },
+    "Marianne": {
+      "full": -0.6508,
+      "no_prior": -0.5818
+    },
+    "Slate.fr": {
+      "full": -0.5287,
+      "no_prior": -0.6508
+    },
+    "Franceinfo": {
+      "full": -0.4112,
+      "no_prior": -0.4214
+    },
+    "20 Minutes": {
+      "full": -0.3136,
+      "no_prior": -0.3284
+    },
+    "Ouest-France": {
+      "full": -0.1625,
+      "no_prior": -0.18
+    },
+    "RFI": {
+      "full": -0.1081,
+      "no_prior": -0.1078
+    },
+    "Challenges": {
+      "full": -0.1048,
+      "no_prior": -0.1199
+    },
+    "France 24": {
+      "full": -0.0264,
+      "no_prior": -0.0201
+    },
+    "BFMTV": {
+      "full": 0.067,
+      "no_prior": 0.0835
+    },
+    "Le Parisien": {
+      "full": 0.1026,
+      "no_prior": 0.1184
+    },
+    "La Croix": {
+      "full": 0.1253,
+      "no_prior": -0.0042
+    },
+    "L'Express": {
+      "full": 0.1784,
+      "no_prior": 0.3412
+    },
+    "TF1 INFO": {
+      "full": 0.3565,
+      "no_prior": 0.4266
+    },
+    "Les Echos": {
+      "full": 0.4287,
+      "no_prior": 0.3505
+    },
+    "Le Point": {
+      "full": 0.5628,
+      "no_prior": 0.5073
+    },
+    "L'Opinion": {
+      "full": 0.5989,
+      "no_prior": 0.5494
+    },
+    "JDD": {
+      "full": 0.9549,
+      "no_prior": 0.9655
+    },
+    "CNews": {
+      "full": 0.9573,
+      "no_prior": 1.1289
+    },
+    "Le Figaro": {
+      "full": 1.0236,
+      "no_prior": 0.8778
+    },
+    "Atlantico": {
+      "full": 1.0771,
+      "no_prior": 1.1596
+    },
+    "Causeur": {
+      "full": 1.5305,
+      "no_prior": 1.4778
+    },
+    "Fdesouche": {
+      "full": 1.8404,
+      "no_prior": 1.8401
+    },
+    "Valeurs actuelles": {
+      "full": 1.8725,
+      "no_prior": 1.8258
+    }
+  }
+}

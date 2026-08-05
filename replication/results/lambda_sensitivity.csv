@@ -1,0 +1,31 @@
+outlet,label_lambda2,score_lambda2,score_lambda1,label_lambda1,shift_vs_lambda2_1,label_changed_1,score_lambda3,label_lambda3,shift_vs_lambda2_3,label_changed_3
+L'Humanité,far-left,-2.4117,-2.4488,far-left,-0.037,False,-2.3777,far-left,0.034,False
+Blast,far-left,-1.6473,-1.6449,far-left,0.0024,False,-1.6531,far-left,-0.0058,False
+Mediapart,far-left,-1.6344,-1.6406,far-left,-0.0062,False,-1.6201,far-left,0.0143,False
+Libération,left,-1.0798,-1.0082,left,0.0716,False,-1.14,left,-0.0602,False
+Le HuffPost,left,-0.9962,-1.0114,left,-0.0152,False,-0.9861,left,0.0102,False
+Le Nouvel Obs,left,-0.8939,-0.8856,left,0.0082,False,-0.9002,left,-0.0063,False
+Le Monde,center-left,-0.7071,-0.6761,center-left,0.031,False,-0.7318,center-left,-0.0247,False
+Marianne,center-left,-0.6508,-0.6201,center-left,0.0307,False,-0.6761,center-left,-0.0253,False
+Slate.fr,center-left,-0.5287,-0.5816,center-left,-0.0529,False,-0.4865,center-left,0.0422,False
+Franceinfo,center-left,-0.4112,-0.4189,center-left,-0.0076,False,-0.4011,center-left,0.0101,False
+20 Minutes,center-left,-0.3136,-0.3224,center-left,-0.0088,False,-0.3038,center-left,0.0098,False
+Ouest-France,center,-0.1625,-0.1708,center,-0.0083,False,-0.1551,center,0.0073,False
+RFI,center,-0.1081,-0.1086,center,-0.0005,False,-0.1069,center,0.0012,False
+Challenges,center,-0.1048,-0.1113,center,-0.0065,False,-0.0997,center,0.0051,False
+France 24,center,-0.0264,-0.0237,center,0.0027,False,-0.0287,center,-0.0022,False
+BFMTV,center,0.067,0.0748,center,0.0079,False,0.0598,center,-0.0072,False
+Le Parisien,center,0.1026,0.1105,center,0.0079,False,0.0949,center,-0.0077,False
+La Croix,center,0.1253,0.0655,center,-0.0597,False,0.1768,center,0.0515,False
+L'Express,center,0.1784,0.256,center-right,0.0776,True,0.1083,center,-0.07,False
+TF1 INFO,center-right,0.3565,0.389,center-right,0.0325,False,0.3282,center-right,-0.0283,False
+Les Echos,center-right,0.4287,0.3929,center-right,-0.0359,False,0.4594,center-right,0.0307,False
+Le Point,center-right,0.5628,0.5375,center-right,-0.0253,False,0.5843,center-right,0.0215,False
+L'Opinion,center-right,0.5989,0.5764,center-right,-0.0225,False,0.6179,center-right,0.019,False
+JDD,right,0.9549,0.9604,right,0.0055,False,0.9494,right,-0.0055,False
+CNews,right,0.9573,1.0371,right,0.0797,False,0.8878,right,-0.0696,False
+Le Figaro,right,1.0236,0.9574,right,-0.0662,False,1.0795,right,0.0559,False
+Atlantico,right,1.0771,1.1111,right,0.034,False,1.0516,right,-0.0255,False
+Causeur,far-right,1.5305,1.5072,far-right,-0.0233,False,1.5494,far-right,0.0189,False
+Fdesouche,far-right,1.8404,1.8415,far-right,0.0011,False,1.838,far-right,-0.0024,False
+Valeurs actuelles,far-right,1.8725,1.8556,far-right,-0.0169,False,1.8816,far-right,0.0091,False

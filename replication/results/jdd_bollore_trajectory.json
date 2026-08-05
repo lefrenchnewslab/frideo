@@ -1,0 +1,33 @@
+{
+  "method": "endorsed majority-vote D7, main-model scorer (d7_score.score_text_endorsed); both-flagged articles counted in BOTH n_left and n_right (matches d5_score)",
+  "periods": {
+    "PRE": {
+      "window": "2022-01-01..2023-06-30",
+      "n_articles": 13251,
+      "n_right": 371,
+      "n_left": 512,
+      "n_both_tie": 26,
+      "n_none": 12394,
+      "total_signal": 883,
+      "d7_raw": -0.1597
+    },
+    "2023-H2 (Aug–Dec)": {
+      "n_articles": 2962,
+      "n_right": 109,
+      "n_left": 59,
+      "n_both_tie": 11,
+      "n_none": 2805,
+      "total_signal": 168,
+      "d7_raw": 0.2976
+    },
+    "2024-H1 (Jan–Jun)": {
+      "n_articles": 4800,
+      "n_right": 247,
+      "n_left": 67,
+      "n_both_tie": 12,
+      "n_none": 4498,
+      "total_signal": 314,
+      "d7_raw": 0.5732
+    }
+  }
+}

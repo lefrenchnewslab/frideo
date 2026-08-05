@@ -1,0 +1,74 @@
+item_id,record_id,article_id,outlet,period,term_side,term_matched,new_d7,llm_label
+IT1534845b8b,3401,972240,Le Figaro,2024-H1,right,insécurité ,PLAIN,QUALIFIED
+IT2d02c3932d,3607,1253947,Le Figaro,2024-H1,right,immigration illégale,PLAIN,QUALIFIED
+ITd43e832094,3742,2339278,CNews,2024-H1,right,décivilisation,QUALIFIED,PLAIN
+IT3c4f021831,140,269690,L'Humanité,2024-H1,left,justice sociale,PLAIN,QUALIFIED
+ITa3c5fb17f1,686,272640,Le Monde,2024-H1,left,accueil des réfugiés,PLAIN,QUALIFIED
+ITb0f2c94f5f,989,2593140,Franceinfo,2024-H1,left,féminicides,PLAIN,QUALIFIED
+IT5c4c4f2530,1654,2695046,20 Minutes,2024-H1,right,remigration,QUALIFIED,PLAIN
+IT6cf10564bb,2617,1706904,Marianne,2024-H1,right,grand remplacement,QUALIFIED,PLAIN
+IT1a894a4861,2852,3227841,JDD,2024-H1,right,islamo-gauchisme,PLAIN,QUALIFIED
+IT7707f23e5e,1865,2829175,Ouest-France,2024-H1,right,insécurité ,PLAIN,QUALIFIED
+ITb97af15689,1943,331875,La Croix,2024-H1,right,submersion migratoire,PLAIN,QUALIFIED
+ITa164393333,29,276017,L'Humanité,2024-H1,left,violences policières,QUALIFIED,PLAIN
+ITd4e6299c8c,2070,478250,La Croix,2024-H1,right,wokisme,QUALIFIED,PLAIN
+IT239a6debd0,23,110842,L'Humanité,2024-H1,right,remigration,QUALIFIED,PLAIN
+IT0e54a0c509,277,2024300,Libération,2024-H1,right,remigration,QUALIFIED,PLAIN
+IT890d218bd1,2333,2769963,Les Echos,2024-H1,left,ultralibéral,PLAIN,QUALIFIED
+ITffd346c6b2,3921,1771134,Causeur,2024-H1,right,immigration illégale,PLAIN,QUALIFIED
+IT2c9197b6bc,158,264625,L'Humanité,2024-H1,left,accueil des réfugiés,PLAIN,QUALIFIED
+IT0f05f397b3,481,1186728,Le HuffPost,2024-H1,right,immigration incontrôlée,PLAIN,QUALIFIED
+IT0564fbb762,3848,1772128,Causeur,2024-H1,right,immigration massive,PLAIN,QUALIFIED
+IT02eb65e7b7,3351,671814,Le Figaro,2024-H1,right,insécurité ,PLAIN,QUALIFIED
+IT5a54a1d02d,1204,1777657,BFMTV,2024-H1,left,violences sexistes,PLAIN,QUALIFIED
+ITa18b1e1610,3280,3245774,JDD,2024-H1,right,wokisme,QUALIFIED,PLAIN
+IT24f00074a8,3392,972098,Le Figaro,2024-H1,right,insécurité ,PLAIN,QUALIFIED
+IT419b204c35,2816,3248501,JDD,2024-H1,right,immigration clandestine,PLAIN,QUALIFIED
+ITe3f4d86892,2853,3227873,JDD,2024-H1,right,wokisme,PLAIN,QUALIFIED
+ITa106c677a1,3186,607191,JDD,2024-H1,right,wokisme,PLAIN,QUALIFIED
+IT3823218623,3020,3226326,JDD,2024-H1,right,wokisme,QUALIFIED,PLAIN
+IT259ca3dfe2,311,2070107,Libération,2024-H1,left,néolibéralisme,QUALIFIED,PLAIN
+IT327aa24d6d,3986,2371055,Fdesouche,2024-H1,right,remigration,QUALIFIED,PLAIN
+IT4f6f789a35,801,1723750,Le Nouvel Obs,2024-H1,right,violences urbaines,PLAIN,QUALIFIED
+ITa4f435f098,1203,1776564,BFMTV,2024-H1,right,insécurité ,QUALIFIED,PLAIN
+ITf8736b6481,3847,1772116,Causeur,2024-H1,right,immigration clandestine,PLAIN,QUALIFIED
+IT0be67ee27b,1224,2533926,BFMTV,2024-H1,right,immigration clandestine,PLAIN,QUALIFIED
+IT6cf2da6842,3482,970088,Le Figaro,2024-H1,right,immigration clandestine,QUALIFIED,PLAIN
+ITb043bac4d8,3415,1273837,Le Figaro,2024-H1,right,immigration illégale,QUALIFIED,PLAIN
+IT0ee1bcfbb0,244,1994262,Libération,2024-H1,right,remigration,QUALIFIED,PLAIN
+IT6fe945abec,69,270398,L'Humanité,2024-H1,left,racisme structurel,PLAIN,QUALIFIED
+ITef1007a9aa,2731,608364,JDD,2024-H1,right,grand remplacement,QUALIFIED,PLAIN
+ITbadd8e54bc,3194,607207,JDD,2024-H1,left,justice sociale,QUALIFIED,PLAIN
+IT0dd983d549,2687,1717968,Marianne,2024-H1,left,lutte des classes,PLAIN,QUALIFIED
+IT82184785ce,2244,2546319,Les Echos,2024-H1,right,assistanat,QUALIFIED,PLAIN
+ITad959dbda6,2880,607660,JDD,2024-H1,right,immigration illégale,PLAIN,QUALIFIED
+IT00e4948444,32,276053,L'Humanité,2024-H1,left,ultralibéral,PLAIN,QUALIFIED
+ITb8fb03d0e0,1187,2663874,Franceinfo,2024-H1,right,Décivilisation,PLAIN,QUALIFIED
+IT3c93e03964,255,2008824,Libération,2024-H1,right,remigration,QUALIFIED,PLAIN
+ITca1e984e24,200,1845599,Mediapart,2024-H1,right,wokisme,QUALIFIED,PLAIN
+ITfd706c1c65,402,2156843,Libération,2024-H1,left,violences sexistes,QUALIFIED,PLAIN
+IT3a123d753e,3212,607304,JDD,2024-H1,right,grand remplacement,QUALIFIED,PLAIN
+IT99bba6ad09,3503,1254523,Le Figaro,2024-H1,right,islamo-gauchisme,QUALIFIED,PLAIN
+IT61369b034a,285,2028640,Libération,2024-H1,left,racisme systémique,PLAIN,QUALIFIED
+ITf1d3a94a68,162,107246,L'Humanité,2024-H1,right,décivilisation,QUALIFIED,PLAIN
+IT34101f325b,990,2593140,Franceinfo,2024-H1,left,violences sexistes,PLAIN,QUALIFIED
+IT35760fcd74,263,2011132,Libération,2024-H1,right,décivilisation,QUALIFIED,PLAIN
+IT63dd209efe,1672,1942303,Le Parisien,2024-H1,left,justice sociale,QUALIFIED,PLAIN
+IT8fbc492bf5,415,2163158,Libération,2024-H1,right,Décivilisation,QUALIFIED,PLAIN
+IT7e29aa3117,3837,1772864,Causeur,2024-H1,right,violences urbaines,PLAIN,QUALIFIED
+IT458151f714,3008,607596,JDD,2024-H1,right,décivilisation,PLAIN,QUALIFIED
+IT7b298ab358,708,35976,Le Monde,2024-H1,right,insécurité ,QUALIFIED,PLAIN
+IT2e8e2ae501,3475,725846,Le Figaro,2024-H1,right,insécurité ,PLAIN,QUALIFIED
+IT9d102b21ac,82,271363,L'Humanité,2024-H1,left,justice sociale,PLAIN,QUALIFIED
+IT9e05573d4d,3414,1272716,Le Figaro,2024-H1,right,immigration clandestine,QUALIFIED,PLAIN
+IT25460809fe,3924,1771186,Causeur,2024-H1,right,ensauvagement,PLAIN,QUALIFIED
+IT570720744a,3454,1268830,Le Figaro,2024-H1,right,assistanat,QUALIFIED,PLAIN
+ITe5f0e7c653,406,2157888,Libération,2024-H1,left,justice sociale,QUALIFIED,PLAIN
+IT9463a5e8bd,1916,333846,La Croix,2024-H1,left,féminicide,PLAIN,QUALIFIED
+ITf07111c033,78,270902,L'Humanité,2024-H1,left,violences policières,PLAIN,QUALIFIED
+ITf17b1e81a2,3816,2342373,CNews,2024-H1,right,ensauvagement,QUALIFIED,PLAIN
+IT95900f7383,944,2574015,Franceinfo,2024-H1,right,immigration illégale,PLAIN,QUALIFIED
+ITd2ab4552af,1977,330093,La Croix,2024-H1,left,violences sexistes,PLAIN,QUALIFIED
+ITf2422dcc33,3653,1249060,Le Figaro,2024-H1,left,violences sexistes,PLAIN,QUALIFIED
+IT20044f9a7e,163,107409,L'Humanité,2024-H1,left,violences sexistes,QUALIFIED,PLAIN
+ITe1a9d4282b,1209,2525943,BFMTV,2024-H1,right,immigration clandestine,PLAIN,QUALIFIED

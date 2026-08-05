@@ -1,0 +1,28 @@
+# Data licence
+
+The FrIdéo scores — `frideo_scores.csv`, `frideo_scores.json`, and the derived
+outputs in `replication/results/` — are released under
+**Creative Commons Attribution 4.0 International (CC BY 4.0)**:
+https://creativecommons.org/licenses/by/4.0/
+
+Attribute to: Amr Sobhy, Le French News Lab, "FrIdéo" (ICNLSP 2026).
+
+## Third-party inputs
+
+Redistributed here under their own terms, not the grant above:
+
+| Path | Source |
+|---|---|
+| `replication/gn/gn_bias_ratings.json` | ground.news pages carrying Media Bias/Fact Check and Ad Fontes Media labels |
+| `replication/results/cointet_d3_continuous.csv` | Cointet et al. (2021), HAL halshs-03299024 |
+| `replication/data/outlets_evidence_v2.json` | Our coding of ACPM, Pew 2018, Cagé et al. 2022, MBFC, data.gouv.fr; per-field source strings included |
+| `replication/results/exp_a/exp_a_gold_430.csv` | Quoted excerpts from 398 French news articles |
+
+`exp_a_gold_430.csv` carries per row one sentence (mean 228 characters) and a
+preceding context window (mean 276 characters). The 430 rows are drawn from 398
+articles: 370 contribute a single excerpt and 28 contribute between two and four,
+where a term occurs more than once in the same article. These are the annotation
+units the reported inter-rater agreement is computed over. No article is
+reproduced in whole or in substantial part. Copyright remains with the publishers.
+
+Rights holders: contact amr@frenchnewslab.org for removal.
